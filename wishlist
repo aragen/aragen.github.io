@@ -1,0 +1,15 @@
+<html>
+  <head>
+    <title>Setia Negara Wishlist</title>
+    <link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+  </head>
+  <body>
+    <ul>
+      <li><a href="https://ibox.co.id/catalog/mac/macbook-air-m1-(2020)-3202">MacBook Pro M1</a></li>
+      <li><a href="https://ibox.co.id/catalog/mac/mac-mini-m1-(2020)-3203">Mac Mini M1</a></li>
+      <li><a href="https://www.tokopedia.com/harcoxpress/monitor-led-lg-24-inch-24mk600-24mk600m-b-hdmi-vga?whid=0">Monitor LED LG 24 Inch 24MK600</a></li>
+      <li><a href="https://www.ikea.co.id/in/produk/ruang-kerja-rumah/meja-kerja-rumah/adils-linnmon-spr-19246417">Meja IKEA LINNMON/ ADILS</a></li>
+      <li><a href="https://www.brother.co.id/id-id/products/all-printers/printers/dcp-t420w">Brother DCP-T420W Refill Tank Printer</a></li>
+    </ul>
+  </body>
+</html>
